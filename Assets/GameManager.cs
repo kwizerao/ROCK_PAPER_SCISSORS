@@ -30,7 +30,7 @@ public class GameManager : MonoBehaviour
     private readonly string ComputerWins = "Computer Wins";
     private readonly string placeHolder = "(Player) vs (Computer)";
     private readonly string Rock = "Rock";
-    private readonly string Papper = "Papper";
+    private readonly string Papper = "Paper";
     private readonly string Scissors = "Scissors";
     private readonly string invalid = "Invalid"; 
     #endregion
